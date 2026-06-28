@@ -8,9 +8,9 @@
 
 🎓 B.Tech Computer Science Student (2027)  
 💻 Full Stack Developer (React, Node.js, Python)  
-⚡ Passionate about building scalable and high-performance web applications  
+
 🤖 Exploring Artificial Intelligence, Machine Learning & Automation  
-📈 Always learning new technologies and solving real-world problems
+
 
 ---
 
