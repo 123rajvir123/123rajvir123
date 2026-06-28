@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Rajvir Kaur</h1>
 <h3 align="center">B.Tech CSE (2027) | Full Stack Developer | AI/ML Enthusiast</h3>
 
