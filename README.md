@@ -60,7 +60,7 @@ Modern React + GSAP scroll animation project.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://https://www.linkedin.com/in/rajvir-kaur
+- LinkedIn: https://www.linkedin.com/in/rajvir-kaur-1ba81a365/
 - GitHub: https://github.com/123rajvir123
 
 ---
